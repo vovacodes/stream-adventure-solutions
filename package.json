@@ -1,0 +1,29 @@
+{
+  "name": "streams-adventure-solutions",
+  "version": "0.1.0",
+  "description": "Solutions for the 'stream-adventure' nodeschool.io tutorial",
+  "dependencies": {
+    "duplexer": "~0.1.1",
+    "concat-stream": "~1.4.5",
+    "split": "~0.3.0",
+    "stream-combiner": "~0.1.0",
+    "request": "~2.34.0",
+    "tar": "~0.1.19",
+    "through": "~2.3.4",
+    "trumpet": "~1.6.3",
+    "websocket-stream": "~0.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wizardzloy/streams-adventure-solutions.git"
+  },
+  "keywords": [
+    "nodeschool.io",
+    "nodeschool",
+    "streams",
+    "solutions"
+  ],
+  "author": "wizardzloy",
+  "license": "ISC",
+  "homepage": "https://github.com/wizardzloy/streams-adventure-solutions"
+}
